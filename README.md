@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @APT09
+- 👋 Hi, I’m @Aashu
 - 👀 I’m interested in reading, coding and exploring new things
 - 🌱 I’m currently learning Python, Swift and JavaScript
 - 💞️ I’m looking to collaborate on automation related projects 
